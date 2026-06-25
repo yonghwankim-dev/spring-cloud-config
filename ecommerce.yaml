@@ -1,0 +1,5 @@
+token:
+  expiration_time: 864
+  secret: "user_native_ecommerce_native"
+gateway:
+  ip: "192.168.0.7"
